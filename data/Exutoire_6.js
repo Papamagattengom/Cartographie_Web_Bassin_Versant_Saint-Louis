@@ -1,0 +1,1 @@
+var json_Exutoire_6 = {"type":"FeatureCollection","name":"Exutoire_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":null,"Nom":"Point-Exutoire"},"geometry":{"type":"Point","coordinates":[-16.223548467018258,16.502168685634924]}}]}
